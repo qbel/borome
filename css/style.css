@@ -27,6 +27,13 @@
     /* z-index: 3; */
     margin-top: -13rem !important;
 }
+#mid{
+    font-size: 15px;
+}
+#choose{
+    color:#FF6600;
+    font-weight: bold;
+}
 @media only screen and ( max-width: 1024px ){
    
 }
@@ -72,5 +79,11 @@
     #text{
         font-size:14px;
         text-align: justify;
+    }
+    #mid{
+        font-size: 13px;
+    }
+    #choose{
+        font-size:14px;
     }
 }
